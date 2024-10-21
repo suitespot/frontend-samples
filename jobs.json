@@ -1,0 +1,28 @@
+[
+  { "id": 1, "status": "Open", "propertyName": "Richmond Suites", "city": "New York", "type": "Inspection" },
+  { "id": 2, "status": "Closed", "propertyName": "Greenwood Apartments", "city": "Los Angeles", "type": "Maintenance" },
+  { "id": 3, "status": "Pending", "propertyName": "Sunset Villas", "city": "Chicago", "type": "Work Order" },
+  { "id": 4, "status": "In Progress", "propertyName": "Oceanview Condos", "city": "Miami", "type": "Inspection" },
+  { "id": 5, "status": "Open", "propertyName": "Lakeside Residences", "city": "Seattle", "type": "Maintenance" },
+  { "id": 6, "status": "Closed", "propertyName": "Mountainview Estates", "city": "Denver", "type": "Work Order" },
+  { "id": 7, "status": "Pending", "propertyName": "Cityscape Flats", "city": "San Francisco", "type": "Inspection" },
+  { "id": 8, "status": "In Progress", "propertyName": "Riverside Towers", "city": "Portland", "type": "Maintenance" },
+  { "id": 9, "status": "Open", "propertyName": "Skyline Lofts", "city": "Houston", "type": "Work Order" },
+  { "id": 10, "status": "Closed", "propertyName": "Garden Grove", "city": "Austin", "type": "Inspection" },
+  { "id": 11, "status": "Pending", "propertyName": "Downtown Suites", "city": "Boston", "type": "Maintenance" },
+  { "id": 12, "status": "In Progress", "propertyName": "Harbor Point", "city": "Baltimore", "type": "Work Order" },
+  { "id": 13, "status": "Open", "propertyName": "Parkside Apartments", "city": "Philadelphia", "type": "Inspection" },
+  { "id": 14, "status": "Closed", "propertyName": "Central Plaza", "city": "Dallas", "type": "Maintenance" },
+  { "id": 15, "status": "Pending", "propertyName": "The Pinnacle", "city": "Phoenix", "type": "Work Order" },
+  { "id": 16, "status": "In Progress", "propertyName": "Bayview Residences", "city": "San Diego", "type": "Inspection" },
+  { "id": 17, "status": "Open", "propertyName": "The Meadows", "city": "San Jose", "type": "Maintenance" },
+  { "id": 18, "status": "Closed", "propertyName": "Hillside Villas", "city": "Las Vegas", "type": "Work Order" },
+  { "id": 19, "status": "Pending", "propertyName": "The Atrium", "city": "Orlando", "type": "Inspection" },
+  { "id": 20, "status": "In Progress", "propertyName": "Riverwalk Apartments", "city": "Atlanta", "type": "Maintenance" },
+  { "id": 21, "status": "Open", "propertyName": "Seaside Towers", "city": "Tampa", "type": "Work Order" },
+  { "id": 22, "status": "Closed", "propertyName": "The Gateway", "city": "Charlotte", "type": "Inspection" },
+  { "id": 23, "status": "Pending", "propertyName": "The Summit", "city": "Nashville", "type": "Maintenance" },
+  { "id": 24, "status": "In Progress", "propertyName": "The Ridge", "city": "Indianapolis", "type": "Work Order" },
+  { "id": 25, "status": "Open", "propertyName": "The Heights", "city": "Columbus", "type": "Inspection" }
+]
+
